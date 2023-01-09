@@ -3,7 +3,7 @@
 
 ## Demo
 
-<img src="demo_sentiment_extraction.gif" width="900" height="400" />
+<img src="demo_sentiment_extraction.gif" width="900" height="450" />
 
 ## Authors
 
