@@ -1,6 +1,6 @@
 # Tweet_Sentiment_Extraction_using_Amazon_Sagemaker
 
-In this project, I have tried to solve [Tweet Sentiment Extraction]("https://www.kaggle.com/competitions/tweet-sentiment-extraction/overview") Kaggle Problem.
+In this project, I have tried to solve [Tweet Sentiment Extraction](https://www.kaggle.com/competitions/tweet-sentiment-extraction/overview) Kaggle Problem.
 
   In `notebooks/01-DataPrep-and-training.ipynb`, I have used Amazon Sagemaker to train and deploy a `roberta` model on [Tweet Sentiment Extraction dataset](https://www.kaggle.com/competitions/tweet-sentiment-extraction/overview) dataset from kaggle. 
    Then in the notebook `02-Create-Lambda.pynb` I have showed how to create AWS Lambda required to host the Sagemaker Endpoint via API Gateway .
